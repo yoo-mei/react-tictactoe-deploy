@@ -1,0 +1,13 @@
+body{
+  padding:0;
+  margin:0;
+  background:#2c3e50;
+  font : 14px sans-serif;
+  color:#fff;
+}
+
+ol,ul{
+  padding:0;
+  margin:0;
+  list-style:none;
+}

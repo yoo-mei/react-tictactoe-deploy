@@ -1,0 +1,35 @@
+.game{
+    display:flex;
+    flex-direction:column;
+    height:100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+    margin-bottom:20px;
+    font-size:30px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.game-info{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width:100%;
+    margin-top:16px;
+}
+
+.move-button{
+    width:200px;
+    padding:10px 20px;
+    margin-bottom:20px;
+    background:#27ae60;
+    border-width:0px;
+    border-radius: 5px;
+    font-weight:200;
+    text-decoration: none;
+    color:#fff;
+}
